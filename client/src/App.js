@@ -84,7 +84,7 @@ class App extends Component {
 					<div id="hero">
 						<img src={logo} alt="AT van Wijngaarden logo" id="logo" />
 						<h4>De architect A.T. van Wijngaarden (1819-1900)</h4>
-<h5>Esoen eclectische signatuur in het Noord-Hollandse landschap</h5>
+<h5>Een eclectische signatuur in het Noord-Hollandse landschap</h5>
 					</div>
 
 					<Section 
@@ -119,15 +119,15 @@ Andere belangrijke bronnen zijn de huidige bezitters/bewoners van de panden, de 
 <li>Sponsoren van het project en het boek is ook mogelijk. Elk bedrag is welkom. Als u dat wilt komt uw naam in het boek te staan. Voor organisaties is naamsvermelding met logo mogelijk vanaf € 500,-.</li>
 </ol>
 
-U kunt zich inschrijven als vroeg-inschrijver of sponsor door een mail te sturen naar: <a class='button' href='mailto: gerarddvries@gmail.com'> gerarddvries@gmail.com</a> <br> <br> "
+U kunt zich inschrijven als vroeg-inschrijver of sponsor door een mail te sturen naar: <a class='button' href='mailto: info@atvanwijngaard.com'> info@atvanwijngaard.com</a> <br> <br> "
 					/>
 
 					<Section 
 						id    = "contact"
 						title = "contact"
-						text  = "Heeft u verdere vragen of merkingen?<br> mail dan met:<br> <br>
+						text  = "Heeft u verdere vragen of opmerkingen?<br> mail dan met:<br> <br>
 
-							<a class='button' href='mailto: gerarddvries@gmail.com'> gerarddvries@gmail.com</a>"
+							<a class='button' href='mailto: info@atvanwijngaard.com'> info@atvanwijngaard.com</a>"
 					/>
 
 				</div>

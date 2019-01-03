@@ -134,9 +134,9 @@ p {
 #hero {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
-  height: 70vh;
+  height: 80vh;
   width: 100%;
   margin-top: 3em;
   background-position: center;
@@ -146,6 +146,8 @@ p {
   #hero h4, #hero h5 {
     color: white;
     margin: 0 1rem 1rem 1rem; }
+  #hero h5 {
+    margin-bottom: 2rem; }
 
 .container {
   display: flex;
@@ -237,7 +239,9 @@ p {
     nav .menu a {
       display: inline; }
   #hero #logo {
-    width: 70vw; }
+    width: 60vw; }
+  #hero h5 {
+    margin-bottom: 4rem; }
   .content.center {
     text-align: center; }
   .sub {
