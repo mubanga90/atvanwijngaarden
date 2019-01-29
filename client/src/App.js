@@ -84,7 +84,7 @@ class App extends Component {
 					<div id="hero">
 						<img src={logo} alt="AT van Wijngaarden logo" id="logo" />
 						<h4>De architect A.T. van Wijngaarden (1819-1900)</h4>
-<h5>Een eclectische signatuur in het Noord-Hollandse landschap</h5>
+<h5>Een eclectische signatuur in het West-Friese landschap</h5>
 					</div>
 
 					<Section 
@@ -103,7 +103,8 @@ class App extends Component {
 						id    = "onderzoek"
 						title = "Succesvol onderzoek"
 						text  = "Meer dan anderhalf jaar onderzoek heeft een rijkdom aan gegevens aan het licht gebracht. In regionale archieven duikt de naam A.T. van Wijngaarden vele honderden keren op: in notulen van gemeenteraads- of kerkraadsvergaderingen als hij bouwplannen komt toelichten, in handgeschreven briefjes aan burgemeesters over de voortgang van de bouw, in nota’s en uiteraard in bestekken, begrotingen en tekeningen van de gebouwen. De archiefbronnen geven een goed beeld van zijn bouwactiviteiten en zijn persoonlijkheid. <br> <br>
-Andere belangrijke bronnen zijn de huidige bezitters/bewoners van de panden, de historische verenigingen en andere familieleden van A.T. van Wijngaarden."
+Andere belangrijke bronnen zijn de huidige bezitters/bewoners van de panden, de historische verenigingen en andere familieleden van A.T. van Wijngaarden.<br>
+<a href='/Artikel.jpg'>Artikel Noord-Hollands Dagblad van 17 augustus 2018</a>"
 					/>
 
 					<Section 
@@ -120,7 +121,7 @@ Andere belangrijke bronnen zijn de huidige bezitters/bewoners van de panden, de 
 </ol>
 
 U kunt zich inschrijven als vroeg-inschrijver of sponsor door een mail te sturen naar: 
-	<a class='button' href='mailto: info@atvanwijngaarden.nl'> info@atvanwijngaarden.nl</a> <br> <br> "
+	<a href='mailto: info@atvanwijngaarden.nl'> info@atvanwijngaarden.nl</a> <br> <br> "
 					/>
 
 					<Section 

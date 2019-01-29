@@ -27,7 +27,7 @@ html, body {
   line-height: 2em;
   letter-spacing: 0.05em; }
 
-h1, h2, h3, h4, h5, nav {
+h1, h2, h3, h4, h5, button, a.button, .button, nav {
   font-weight: 900;
   letter-spacing: 0.1em;
   text-shadow: 0 2px 1px rgba(0, 0, 0, 0.3); }
@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, nav {
 h4 {
   font-size: 2rem; }
 
-h5 {
+h5, button, a.button, .button {
   font-size: 1.5rem; }
 
 nav {
@@ -143,10 +143,10 @@ p {
   background-size: cover; }
   #hero #logo {
     width: 90vw; }
-  #hero h4, #hero h5 {
+  #hero h4, #hero h5, #hero button, #hero .button {
     color: white;
     margin: 0 1rem 1rem 1rem; }
-  #hero h5 {
+  #hero h5, #hero button, #hero .button {
     margin-bottom: 2rem; }
 
 .container {
@@ -201,6 +201,36 @@ p {
     background-position: center;
     background-size: cover; }
 
+button, a.button, .button {
+  display: block;
+  width: fit-content;
+  padding: 1rem 2rem;
+  position: relative;
+  margin: 0 1rem 1rem 0;
+  background: #E39774;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0px 0.25rem 0.5rem 0 rgba(51, 51, 51, 0.05), 0px 0.25rem 1rem 0 rgba(51, 51, 51, 0.1);
+  color: white !important;
+  cursor: pointer;
+  transition: background 	200ms 	ease-in-out, border 		200ms 	ease-in-out, transform  	200ms	ease-in-out; }
+  button::after, a.button::after, .button::after {
+    content: '';
+    border-radius: 4px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    box-shadow: 0px 0.5rem 1rem 0 rgba(51, 51, 51, 0.1), 0px 0.75rem 4rem 0.5rem rgba(51, 51, 51, 0.15);
+    opacity: 0;
+    transition: opacity 200ms ease-in-out; }
+  button:hover, a.button:hover, .button:hover {
+    transform: translate(0, -1px);
+    color: white; }
+    button:hover::after, a.button:hover::after, .button:hover::after {
+      opacity: 1; }
+
 @media screen and (min-width: 57em) {
   nav #nav-logo {
     color: #E39774;
@@ -240,7 +270,7 @@ p {
       display: inline; }
   #hero #logo {
     width: 60vw; }
-  #hero h5 {
+  #hero h5, #hero button, #hero .button {
     margin-bottom: 4rem; }
   .content.center {
     text-align: center; }
