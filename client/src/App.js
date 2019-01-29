@@ -103,14 +103,17 @@ class App extends Component {
 						id    = "onderzoek"
 						title = "Succesvol onderzoek"
 						text  = "Meer dan anderhalf jaar onderzoek heeft een rijkdom aan gegevens aan het licht gebracht. In regionale archieven duikt de naam A.T. van Wijngaarden vele honderden keren op: in notulen van gemeenteraads- of kerkraadsvergaderingen als hij bouwplannen komt toelichten, in handgeschreven briefjes aan burgemeesters over de voortgang van de bouw, in nota’s en uiteraard in bestekken, begrotingen en tekeningen van de gebouwen. De archiefbronnen geven een goed beeld van zijn bouwactiviteiten en zijn persoonlijkheid. <br> <br>
-Andere belangrijke bronnen zijn de huidige bezitters/bewoners van de panden, de historische verenigingen en andere familieleden van A.T. van Wijngaarden.<br>
-<a href='/Artikel.jpg'>Artikel Noord-Hollands Dagblad van 17 augustus 2018</a>"
+Andere belangrijke bronnen zijn de huidige bezitters/bewoners van de panden, de historische verenigingen en andere familieleden van A.T. van Wijngaarden.<br><br>
+<a href='/Artikel.jpg' target='_blank'>Artikel Noord-Hollands Dagblad van 17 augustus 2018</a> <br> <br>
+<a href='/Brochure project-boek Architect AT van Wijngaarden.pdf' class='button' target='_blank'>Brochure</a>
+"
 					/>
 
 					<Section 
 						id    = "sponsoren"
 						title = "Voorintekenen en sponsoren"
-						text  = "Een boek over architect A.T. van Wijngaarden vraagt om professionele vormgeving en drukwerk. De totale productiekosten van deze gebonden uitgave, van 120 pagina’s met veel beeldmateriaal en met een harde omslag, hebben we beperkt weten te houden tot circa € 12.500,-. We willen het boek betaalbaar houden en voor € 25,- verkopen. Bij een geschatte verkoop van 300 exemplaren, levert dit een restbedrag op van € 5.000,-. Dit bedrag willen we via sponsoring door organisaties en crowdfunding aanvullen."
+						text  = "Een boek over architect A.T. van Wijngaarden vraagt om professionele vormgeving en drukwerk. De totale productiekosten van deze gebonden uitgave, van 120 pagina’s met veel beeldmateriaal en met een harde omslag, hebben we beperkt weten te houden tot circa € 12.500,-. We willen het boek betaalbaar houden en voor € 25,- verkopen. Bij een geschatte verkoop van 300 exemplaren, levert dit een restbedrag op van € 5.000,-. Dit bedrag willen we via sponsoring door organisaties en crowdfunding aanvullen.
+						"
 					/>
 
 					<Section 
@@ -120,8 +123,10 @@ Andere belangrijke bronnen zijn de huidige bezitters/bewoners van de panden, de 
 <li>Sponsoren van het project en het boek is ook mogelijk. Elk bedrag is welkom. Als u dat wilt komt uw naam in het boek te staan. Voor organisaties is naamsvermelding met logo mogelijk vanaf € 500,-.</li>
 </ol>
 
-U kunt zich inschrijven als vroeg-inschrijver of sponsor door een mail te sturen naar: 
-	<a href='mailto: info@atvanwijngaarden.nl'> info@atvanwijngaarden.nl</a> <br> <br> "
+U kunt zich inschrijven als vroeg-inschrijver of sponsor door een ingevuld formulier terug te sturen naar: 
+	<a href='mailto: info@atvanwijngaarden.nl'> info@atvanwijngaarden.nl</a> <br> <br> 
+<a href='/Formulier Voorinschrijven.docx' class='button' target='_blank'>Formulier vroeg-inschrijver</a>
+<a href='/Formulier Crowdfunding en sponsoring.docx' class='button' target='_blank'>Formulier Crowdfunding & Sponsoren</a>"
 					/>
 
 					<Section 
