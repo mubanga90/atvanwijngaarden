@@ -96,7 +96,7 @@ class App extends Component {
 					<Section 
 						id    = "wie"
 						title = "Wie is A.T. van Wijngaarden?"
-						text  = "Op 29 juni 1819 werd Arnoldus Teunis in Papendrecht geboren. Al op 26-jarige leeftijd wordt hij benoemd tot ‘Stads Architect’ van Medemblik. Niet lang daarna komen de eerste verzoeken binnen uit omliggende dorpen en steden om kerken en pastorieën, gemeentehuizen, scholen en onderwijzerswoningen, postkantoren en wees- en armenhuizen te ontwerpen. In de loop van een halve eeuw resulteert dat in tientallen karakteristieke panden, vaak in eclectische stijl, die in deze dorpen en steden nog steeds een bijzondere plaats innemen. De cultuur-historische waarde ervan wordt onderstreept door de status van rijks- of provinciaal monument van een aantal gebouwen. <br> <a href='https://nl.wikipedia.org/wiki/Arnoldus_Teunis_van_Wijngaarden'>wikipedia</a>"
+						text  = "Op 29 juni 1819 wordt Arnoldus Teunis in Papendrecht geboren. Al op 26-jarige leeftijd wordt hij benoemd tot ‘Stads Architect’ van Medemblik. Niet lang daarna komen de eerste verzoeken binnen uit omliggende dorpen en steden om kerken en pastorieën, gemeentehuizen, scholen en onderwijzerswoningen, postkantoren en wees- en armenhuizen te ontwerpen. In de loop van een halve eeuw resulteert dat in tientallen karakteristieke panden, vaak in eclectische stijl, die in deze dorpen en steden nog steeds een bijzondere plaats innemen. De cultuur-historische waarde ervan wordt onderstreept door de status van rijks- of provinciaal monument van een aantal gebouwen. <br> <a href='https://nl.wikipedia.org/wiki/Arnoldus_Teunis_van_Wijngaarden'>wikipedia</a>"
 					/>
 
 					<Section 
