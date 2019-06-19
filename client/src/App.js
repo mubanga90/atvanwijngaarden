@@ -123,19 +123,6 @@ class App extends Component {
 					/>
 
 					<Section
-						id    = "steun"
-						title = "Steun dit project"
-						text  = "<ol><li>Door in te tekenen voor één of meerdere exemplaren van het boek. Als vroeg-inschrijver betaalt u € 20,-.</li>
-<li>Sponsoren van het project en het boek is ook mogelijk. Elk bedrag is welkom. Als u dat wilt komt uw naam in het boek te staan. Voor organisaties is naamsvermelding met logo mogelijk vanaf € 500,-.</li>
-</ol>
-
-U kunt zich inschrijven als vroeg-inschrijver of sponsor door een ingevuld formulier terug te sturen naar:
-	<a href='mailto: info@atvanwijngaarden.nl'> info@atvanwijngaarden.nl</a> <br> <br>
-<a href='/Formulier Voorinschrijven.docx' class='button' target='_blank'>Formulier vroeg-inschrijver</a>
-<a href='/Formulier Crowdfunding en sponsoring.docx' class='button' target='_blank'>Formulier Crowdfunding & Sponsoren</a>"
-					/>
-
-					<Section
 						id    = "contact"
 						title = "contact"
 						text  = "Heeft u verdere vragen of opmerkingen?<br> mail dan met:<br> <br>
