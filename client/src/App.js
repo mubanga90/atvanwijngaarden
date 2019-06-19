@@ -19,8 +19,7 @@ class Nav extends Component {
 						<AnchorLink href="#hero">Home</AnchorLink>
 						<AnchorLink href="#auteur">Auteur</AnchorLink>
 						<AnchorLink href="#bestellen">Bestellen</AnchorLink>
-						<AnchorLink href="#sponsoren">Sponsoren</AnchorLink>
-						<AnchorLink href="#steun">Steun</AnchorLink>
+						<AnchorLink href="#verder">Verder</AnchorLink>
 						<AnchorLink href="#contact">Contact</AnchorLink>
 					</div>
 				</div>
