@@ -104,7 +104,7 @@ class App extends Component {
 					<Section
 						id    = "bestellen"
 						title = "Hoe te bestellen?"
-						text  = "Het boek kost 25 euro (exclusief verzendkosten) en is te bestellen via <a href='mailto:info@atvanwijngaarden.nl'>info@atvanwijngaarden.nl</a> . Het boek is vanaf 1 juli 2019 ook verkrijgbaar bij het Kasteel Radboud te Medemblik. Met enkele boekwinkels in de West-Friese regio is overleg om het boek in deze boekwinkels te verkopen. In de eerste twee weken van juli zal informatie daarover worden aangepast op deze website.<br><br>
+						text  = "Het boek kost 25 euro (exclusief verzendkosten) en is te bestellen via <a href='mailto:info@atvanwijngaarden.nl'>info@atvanwijngaarden.nl</a> . Het boek is vanaf 1 juli 2019 ook verkrijgbaar in de boekwinkels van Stumpel in de West-Friese regio (o.a. in Medemblik, Wieringerwerf en Hoorn).<br><br>
 
 							Het boek werd financieel ondersteund door de gemeente Medemblik, Stichting Stadsherstel Medemblik, de gemeente Hollands Kroon en door verschillende anderen via crowdfunding.
 "
@@ -117,6 +117,7 @@ class App extends Component {
 							<li>Van juni-september 2019 is de expositie ‘De gebouwen van A.T. van Wijngaarden door de ogen van de kunstenaars’ in de ontvangsthal van het gemeentehuis te Wognum (middengebouw). De expositie laat werken zien van zes kunstenaars (schilderijen, etsen, een pentekening en foto’s).</li>
 							<li>Op <a href='https://nl.wikipedia.org/wiki/Arnoldus_Teunis_van_Wijngaarden' target='_blank'>Wikipedia</a> is een pagina over A.T. van Wijngaarden aangemaakt met zijn bouwoeuvre</li>
 							<li>In 2018 verscheen een <a href='/Artikel.jpg' target='_blank'>artikel</a> over het project en de architect in het Noord-Hollands Dagblad.</li>
+							<li>In juli 2019 verscheen een <a href='/NHD 17 juli 2019.pdf' target='_blank'>artikel</a> over het boek in de Schager Courant. </li>
 						</ul>
 						"
 					/>
